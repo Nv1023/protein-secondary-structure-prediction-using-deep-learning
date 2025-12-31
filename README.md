@@ -56,6 +56,11 @@ This makes the problem a **character-level sequence-to-sequence learning task**.
 
 ---
 
+## Dataset used in this project
+https://www.kaggle.com/competitions/sep-25-dl-gen-ai-nppe-2/data
+
+---
+
 ## 📊 Results
 
 Successfully modeled protein secondary structure as a sequence-to-sequence task
